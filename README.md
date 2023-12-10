@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Asma
+- 👀 I’m currently working on PHP exercices
+- 🌱 At this very moment, I’m learning PHP and SQL
