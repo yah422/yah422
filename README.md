@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Asma</h1>
+<h3 align="center">A passionate fullstack developer student from Strasbourg</h3>
 
+- 🔭 I’m currently working on **Database exercice with Mysql**
+
+- 🌱 I’m currently learning **MySQL**
+
+- 📫 How to reach me **saidiasma422@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/asma-saïdi-698b07297) 
 
