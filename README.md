@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Database exercice with Mysql**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MySQL, Javascript and PHP** 
 
 - 📫 How to reach me **saidiasma422@gmail.com**
 ## 🌐 Socials:
