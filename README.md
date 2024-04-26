@@ -7,8 +7,9 @@ A passionate fullstack developer student
 *   🌍  I'm based in Strabourg
 *   ✉️  You can contact me at [saidiasma422@gmail.com](mailto:saidiasma422@gmail.com)
 *   🧠  I'm learning MySQL, Javascript and PHP
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/yah422" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/yah422?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+*   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/yah422" target="_blank" rel="noreferrer">
+
+<img src="https://img.shields.io/github/followers/yah422?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
