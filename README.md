@@ -2,9 +2,6 @@
   <img src="https://téléchargements/banniere github.png" alt="Banner" width="100%" />
 </div>
 
-Je suis un(e) développeur(se) passionné(e) par le web et le mobile. J'adore travailler avec des technologies comme PHP, JavaScript, et MySQL.
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asma
 ============================================================================================================================
 
