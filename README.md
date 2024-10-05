@@ -48,7 +48,13 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
   </a>
-</p>
+  <a href="https://www.symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=whit" width="auto" height="auto" alt="symfony" />
+  </a>
+   <a href="https://www.tailwind.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=whit" width="auto" height="auto" alt="tailwind" />
+  </a>
+  </p>
 
 ---
 
