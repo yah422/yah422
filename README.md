@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banniere github.png" alt="Banner" width="100%" />
+![image](https://github.com/user-attachments/assets/827fb434-7e81-475b-aeda-3608568922b6)
 </div>
 
 <h1>
@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-  <strong>A passionate Full-Stack Web Developer student based in Strasbourg</strong>
+  <strong>A passionate Full-Stack Web Developer based in Strasbourg</strong>
 </p>
 
 <p>
