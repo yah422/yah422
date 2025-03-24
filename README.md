@@ -1,6 +1,6 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/827fb434-7e81-475b-aeda-3608568922b6)
 </div>
+![image](https://github.com/user-attachments/assets/b863c189-9a7c-4762-b16f-a7d4bb389741)
 
 <h1>
   Hi there! 👋 I'm Asma
