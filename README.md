@@ -1,6 +1,6 @@
 <div align="center">
+  <img src="" width="100%" alt="Banniere" />
 </div>
-![image](https://github.com/user-attachments/assets/b863c189-9a7c-4762-b16f-a7d4bb389741)
 
 <h1>
   Hi there! 👋 I'm Asma
