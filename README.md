@@ -6,6 +6,7 @@
 
 **🚀 Full-Stack Web Developer | Passionate about building scalable and efficient applications**
 
+
 🌍 Based in **Strasbourg**  
 ✉️ Reach me at [saidiasma422@gmail.com](mailto:saidiasma422@gmail.com)  
 💼 Open to **freelance & collaboration opportunities**  
