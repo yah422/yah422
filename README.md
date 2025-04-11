@@ -8,6 +8,8 @@
 
 🌍 Based in **Strasbourg**  
 ✉️ Reach me at [saidiasma422@gmail.com](mailto:saidiasma422@gmail.com)  
+   Learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> at the moment
+
 💼 Open to **freelance & collaboration opportunities**  
 
 [![GitHub Followers](https://img.shields.io/github/followers/yah422?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/yah422)
