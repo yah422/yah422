@@ -3,7 +3,6 @@
 </div>
 
 # 👋 Hi there, I'm Asma
-
 **🚀 Full-Stack Web Developer | Passionate about building scalable and efficient applications**
 
 🌍 Based in **Strasbourg**  
