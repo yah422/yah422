@@ -9,7 +9,6 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Créatrice+d'expériences+web+uniques;Toujours+en+quête+d'innovation+✨)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=safari&logoColor=white)](https://votre-portfolio.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-saïdi-698b07297)
   [![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidiasma422@gmail.com)
 
