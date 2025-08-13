@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banniere.png" width="100%" alt="Bannière" />
+  <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/f204e2bd-3ab0-4856-9b89-0a98d80be21f" />
 </div>
 
 # 👋 Hi there, I'm Asma
