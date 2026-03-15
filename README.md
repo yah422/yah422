@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1584" height="396" alt="Bannière Asma Saidi" src="https://github.com/user-attachments/assets/f204e2bd-3ab0-4856-9b89-0a98d80be21f" />
+  <img width="1584" height="396" alt="Bannière Asma Saidi" src="SAIDI Asma (4).png" />
   
 </div>
 
