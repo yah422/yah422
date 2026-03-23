@@ -12,7 +12,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-saïdi-698b07297)
   [![Email](https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidiasma422@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://asmas-website.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://asmadev.netlify.app/)
 
 
 </div>
