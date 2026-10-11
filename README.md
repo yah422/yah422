@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="1584" height="396" alt="Bannière Asma Saidi" src="SAIDI Asma (4).png" />
-  
+  <img width="1584" height="396" alt="Banniere github" src="https://github.com/user-attachments/assets/88cf9d72-0b33-4c6b-84a1-3e6d7f571be2" />
+
 </div>
 
 # 👋🏻 Hello World, I'm **Asma Saidi**  
